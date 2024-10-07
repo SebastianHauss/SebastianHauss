@@ -1,5 +1,5 @@
 ## About me
-#### Hi, there!👋
+### Hi, there!👋
 I'm a self-taught developer based in Vienna, Austria.
 
 <details>
