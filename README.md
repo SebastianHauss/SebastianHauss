@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Sebastian Hauß!
-
+## About me
+#### Hi, there!👋
 I'm a self-taught developer based in Vienna, Austria.
 
-### 💻 Skills
-- **Java**
-- **C#**
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1|  Java         |
+|     2|  C#           |
+|     3|  SQL          |
+
+</details>
 
 ### 🛠️ Current Project
 - **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Developing a RESTful API using Java, Spring Boot, and PostgreSQL for efficient expense management.
