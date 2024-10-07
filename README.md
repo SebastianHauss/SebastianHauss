@@ -8,9 +8,7 @@ I'm a self-taught developer based in Vienna, Austria.
 
 ### 🛠️ Current Project
 - **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Developing a RESTful API using Java, Spring Boot, and PostgreSQL for efficient expense management.
-
-### 💼 Other Projects
-Check out my other projects [here](https://github.com/SebastianHauss?tab=repositories).
+- Check out my other projects [here](https://github.com/SebastianHauss?tab=repositories).
 
 ### 🌱 Learning
 - Spring Boot & testing frameworks
