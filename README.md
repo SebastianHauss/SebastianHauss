@@ -1,9 +1,9 @@
-## About me
-### Hi, there!👋
-I'm a self-taught developer based in Vienna, Austria.
+## About Me
+### Hi there! 👋
+I'm Sebastian from Austria, learning programming with a focus on Java and its ecosystem.
 
 <details>
-<summary>My top languages</summary>
+<summary>My Top Languages</summary>
 
 | Rank | Languages     |
 |-----:|---------------|
@@ -14,15 +14,15 @@ I'm a self-taught developer based in Vienna, Austria.
 </details>
 
 ### 🛠️ Current Project
-- **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Developing a RESTful API using Java, Spring Boot, and PostgreSQL for efficient expense management.
-- Check out my other projects [here](https://github.com/SebastianHauss?tab=repositories).
+- **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Building a RESTful API using Java, Spring Boot, and MySQL to manage expenses.
 
-### 🌱 Learning
+### 🌱 Currently Learning
 - Spring Boot & testing frameworks
-- PostgreSQL
+- MySQL
+- Docker
 
 ### 🎮 Hobbies
-- **Game Development**: Exploring new tools and techniques to create engaging games.
+- **Game Development**: Creating 2D games with Unity.
 - **Gaming**: Passionate about playing a variety of video games and understanding game mechanics.
 
 ### 📫 Contact
