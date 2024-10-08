@@ -18,7 +18,7 @@ I'm Sebastian from Austria, learning programming with a focus on Java and its ec
 
 ### 🌱 Currently Learning
 - Spring Boot & testing frameworks
-- MySQL
+- JavaScript
 - Docker
 
 ### 🎮 Hobbies
