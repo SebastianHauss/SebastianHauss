@@ -18,8 +18,8 @@ I'm Sebastian from Austria, learning programming with a focus on Java and its ec
 
 ### 🌱 Currently Learning
 - Spring Boot & testing frameworks
+- HTML/CSS
 - JavaScript
-- Docker
 
 ### 🎮 Hobbies
 - **Game Development**: Creating 2D games with Unity.
