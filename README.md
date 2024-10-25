@@ -14,7 +14,7 @@ I'm Sebastian from Austria, learning programming with a focus on Java and its ec
 </details>
 
 ### 🛠️ Current Project
-- **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Building a RESTful API using Java, Spring Boot, and MySQL to manage expenses.
+- **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Building a RESTful API using Java, Spring Boot, and PostgreSQL to manage expenses.
 
 ### 🌱 Currently Learning
 - Spring Boot & testing frameworks
