@@ -1,25 +1,13 @@
 ## About Me
 ### Hi there! 👋
-I'm Sebastian from Austria, learning programming with a focus on Java and its ecosystem.
-
-<details>
-<summary>My Top Languages</summary>
-
-| Rank | Languages     |
-|-----:|---------------|
-|     1|  Java         |
-|     2|  C#           |
-|     3|  SQL          |
-
-</details>
+I'm Sebastian from Austria, learning programming with a focus on Java and Web Development.
 
 ### 🛠️ Current Project
 - **[Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)**: Building a RESTful API using Java, Spring Boot, and PostgreSQL to manage expenses.
 
 ### 🌱 Currently Learning
-- Spring Boot & testing frameworks
-- HTML/CSS
-- JavaScript
+- Spring & testing frameworks
+- JavaScript & React
 
 ### 🎮 Hobbies
 - **Game Development**: Creating 2D games with Unity.
