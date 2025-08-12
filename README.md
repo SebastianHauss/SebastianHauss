@@ -1,11 +1,17 @@
 ## About Me
-### Hi there! 👋
-I'm Sebastian from Austria, learning programming with a focus on Java and Web Development.
+### Hi there! 👋  
+I'm Sebastian Hauß, a Junior Fullstack Developer from Vienna, Austria.  
+I specialize in **Java**, **Spring Boot**, and **Angular**, with hands-on experience in **REST API development**, **OpenShift deployment**, and **agile software projects**.  
+Currently deepening my skills through a Junior Software Development program and a fullstack internship at IBM Austria.
 
-### 🌱 Currently Learning
-- JavaScript & React
-- Docker / Kubernetes
-- CI/CD
+### 🚀 Portfolio  
+Check out some of my projects and code samples on my portfolio website:  
+[sebastianhauss.github.io/portfolio-website](https://sebastianhauss.github.io/portfolio-website/index.html)
 
-### 📫 Contact
-- **Email**: [hauss.sebastian@proton.me](mailto:hauss.sebastian@proton.me)
+### 📫 Get in Touch  
+Feel free to reach out via email: [hauss.sebastian@proton.me](mailto:hauss.sebastian@proton.me)  
+Or explore my work on GitHub!
+
+---
+
+⭐️ Thanks for visiting my profile!  
